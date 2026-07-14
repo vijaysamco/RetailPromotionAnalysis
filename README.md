@@ -156,7 +156,7 @@ All generated charts are available in the **resources/** directory.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/<your-github-username>/RetailPromotionAnalysis.git
+git clone https://github.com/vijaysamco/RetailPromotionAnalysis.git
 ```
 
 ## Navigate to the Project
