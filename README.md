@@ -40,6 +40,7 @@ RetailPromotionAnalysis/
 │   ├── Q6_Hyderabad_IR_vs_ISU.png
 │   └── Q7_Bengaluru_Revenue_Comparison.png
 │
+├── client_requests.pdf
 ├── Solutions.pdf
 ├── README.md
 
